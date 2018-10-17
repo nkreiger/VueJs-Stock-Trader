@@ -1,26 +1,12 @@
-# test-me
+# VueJS Stock Trader
 
-## Project setup
-```
-npm install
-```
+## Utilizes a VueJs front-end connected to a real-time DB on Firebase
+## End day simulates a change in the stock price, may save your current status because reloading will refresh to beginning.
+## May reload the data from firebase
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Server hosted on heroku:
+## https://vuejs-stock-trader-fp.herokuapp.com/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Contact:
+## noahkreiger@gmail.com
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
